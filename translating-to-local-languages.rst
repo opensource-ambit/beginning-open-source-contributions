@@ -1,6 +1,6 @@
 Simpler starting point: 
 =============
-Contribute to open source localization(l10n), internationalization(i18n), through human review, or translating to local languages(like ಕನ್ನಡ, मराठी, हिन्दी, कोंकणी, ತುಳು)
+Contribute to open source localization(l10n), internationalization(i18n), through human review, or translating to local languages(like ಕನ್ನಡ, मराठी, हिन्दी, कोंकणी, ತುಳು, ಕೊಡವ ತಕ್ಕ್, اُرْدُو)
 
 * `translatewiki.net <https://translatewiki.net/>`_
 * `Weblate <https://hosted.weblate.org/engage/weblate>`_
