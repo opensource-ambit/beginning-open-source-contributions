@@ -1,5 +1,5 @@
 Contribute to Free Libre and Open Source Software for Education or Productivity projects, like:
--------------------
+=============
 
 * `LibreOffice <https://www.libreoffice.org/community/get-involved/>`_
 * `OpenOffice <https://openoffice.apache.org/get-involved.html>`_
