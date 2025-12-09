@@ -62,7 +62,7 @@ Flow to get started:
 
 a. `Translating <translating-to-local-languages.rst>`_
  	
-	जर मोकळा वेळ असेल तर , مثال کے طور پر , ಬಸ್ಸಿನಲ್ಲಿ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆಗೆ ಪ್ರಯಾಣಿಸುವಾಗ, but translating , बरें , कठीण आसा काय ! ಇಜ್ಜಿ , ಉಂದು ಕಷ್ಟ ಅತ್ತ್ , आप सिर्फ एक शब्द या वाक्य का अनुवाद करके शुरुआत कर सकते हैं ।
+	जर मोकळा वेळ असेल तर , مثال کے طور پر , ಬಸ್ಸಿನಲ್ಲಿ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆಗೆ ಪ್ರಯಾಣಿಸುವಾಗ: translating , बरें , कठीण आसा काय ! ಇಜ್ಜಿ , ಉಂದು ಕಷ್ಟ ಅತ್ತ್ , आप सिर्फ एक शब्द या वाक्य का अनुवाद करके शुरुआत कर सकते हैं ।
 b. Suggestion(because of familiarity with usage), contribute to `Free Libre and Open Source Software for Education or Productivity <free-libre-and-open-source-software-for-education-or-productivity.rst>`_ projects
 c. Then apply to, `Open Source programs <open-source-programs.rst>`_
 
