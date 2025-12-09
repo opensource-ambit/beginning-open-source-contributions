@@ -27,7 +27,8 @@ Contributions, can range from:
 "Contribute to" open source:
 -------------------
 "Contribute to" Project/ software also mentioned on their websites as:
-(or in their GitHub repository as CONTRIBUTING .md or .rst file) 
+
+(or in their GitHub repository in CONTRIBUTING .md or .rst file) 
 
 +-----------+-------------+--------------+-------------+------------+
 |How to:    | get started | get involved | collaborate | contribute |
