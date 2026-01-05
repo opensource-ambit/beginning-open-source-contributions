@@ -26,3 +26,6 @@ Contribute to Free Libre and Open Source Software for Education or Productivity 
 * `Indic-BERT-v1 <https://github.com/AI4Bharat/Indic-BERT-v1/blob/d5c5c021c30fbf5af44c3e4817d497acfc11f943/albert/CONTRIBUTING.md#L4>`_
 * `Chitralekha <https://github.com/AI4Bharat/Chitralekha/tree/1fd5b683bb2ff6927cd19c2bb4f8a5f3a115893f?tab=contributing-ov-file>`_
 * `MOSIP <https://docs.mosip.io/1.2.0/community/code-contributions>`_
+* `listmonk <https://github.com/knadh/listmonk/blob/master/CONTRIBUTING.md>`_
+* `Libredesk <https://github.com/abhinavxd/libredesk/blob/main/CONTRIBUTING.md>`_
+* `LogChef <https://github.com/mr-karan/logchef/blob/main/CONTRIBUTING.md>`_
