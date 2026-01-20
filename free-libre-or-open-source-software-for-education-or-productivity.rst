@@ -1,4 +1,4 @@
-Contribute to Free Libre and Open Source Software for Education or Productivity projects, like:
+Contribute to Free Libre or Open Source Software for Education or Productivity projects, like:
 =============
 
 * `LibreOffice <https://www.libreoffice.org/community/get-involved/>`_
