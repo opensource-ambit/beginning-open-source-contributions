@@ -11,17 +11,21 @@ By contributing to open source, one can improve documentation, communication, ve
 In context of this `README.rst <README.rst>`_ file, contributing means, support through documentation or code, and not financial, donate, contributions.
 
 Contributions, can range from:
--------------------
+------------------------------
 
-+---------------------+---------------------+----------------------------+
-| No coding           | Some coding         | Update existing, new code  |
-+                     +                     +                            +
-|                     | (and Documentation) | (and Documentation)        |
-+---------------------+---------------------+----------------------------+
-| * Translation       | * Testing           | * Development              |
-| * Documentation     | * Debug             | * Design                   |
-| * Community support |                     | * Project management       |
-+---------------------+---------------------+----------------------------+
++-----------------------+-----------------------+-----------------------------+
+| No coding             | Some coding           | Update existing, new code   |
++-----------------------+-----------------------+-----------------------------+
+| * Translation         | * Testing             | * Development               |
+| * Documentation       | * Debug               | * Design                    |
+| * Community support   | * Documentation       | * Project management        |
+| * Advocacy & Web      | * Mentorship          | * Documentation             |
+| * Event Organizing    |                       | * DevOps & CI/CD            |
+| * Community Moderation|                       | * Security Auditing         |
+| * Financial Support   |                       | * Release Management        |
+| * Legal & Licensing   |                       |                             |
+| * User Research       |                       |                             |
++-----------------------+-----------------------+-----------------------------+
 
 
 "Contribute to" open source:
