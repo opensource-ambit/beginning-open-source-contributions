@@ -16,15 +16,14 @@ Contributions, can range from:
 +-----------------------+-----------------------+-----------------------------+
 | No coding             | Some coding           | Update existing, new code   |
 +-----------------------+-----------------------+-----------------------------+
-| * Translation         | * Testing             | * Development               |
-| * Documentation       | * Debug               | * Design                    |
-| * Community support   | * Documentation       | * Project management        |
-| * Advocacy & Web      | * Mentorship          | * Documentation             |
-| * Event Organizing    |                       | * DevOps & CI/CD            |
-| * Community Moderation|                       | * Security Auditing         |
-| * Financial Support   |                       | * Release Management        |
+| * Translation         | * Documentation       | * Documentation             |
+| * Documentation       | * Testing             | * Design                    |
+| * Community support   | * Debug               | * Project management        |
+| * Community Moderation| * Mentorship          | * Release Management        |
+| * Event Organizing    |                       | * Security Auditing         |
+| * Advocacy & Web      |                       | * DevOps & CI/CD            |
+| * User Research       |                       | * Development               |
 | * Legal & Licensing   |                       |                             |
-| * User Research       |                       |                             |
 +-----------------------+-----------------------+-----------------------------+
 
 
